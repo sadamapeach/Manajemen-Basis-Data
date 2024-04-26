@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="LogicalModelBioskop" id="F5DFFEC4-19C4-57A6-5200-0502541986F3" version="3.5">
+<createdBy>Sadama</createdBy>
+<createdTime>2023-05-10 21:53:14 UTC</createdTime>
+<ownerDesignName>LogicalModelBioskop</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F5DFFEC4-19C4-57A6-5200-0502541986F3</designId>
+</OSDM_Design>
